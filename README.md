@@ -5,7 +5,7 @@
 ### One Captain, 500 lives...
 
 ```
-print("...")
+            print("...")
             sleep(4)
             print("'SIR! WAKE UP, WE'RE ABOUT TO CRASH!!!'")
             print("'HELP US!'")
